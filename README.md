@@ -96,7 +96,7 @@ https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
 ---
 
 ## 📸 Project Review
-![preview](Example.mp4)
+![preview](https://github.com/user-attachments/assets/d6e5b097-a212-4fcb-946a-cb2c608f2c2b)
 
 ---
 
